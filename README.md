@@ -16,3 +16,6 @@ Maha App adalah aplikasi Flutter yang digunakan untuk menambah pengguna, mengamb
 - **Cubit**: State management yang digunakan untuk mengelola state di dalam aplikasi.
 - **HTTP**: Untuk melakukan permintaan jaringan ke API.
 - **GetIt**: Dependency injection untuk mengelola dan menginisialisasi berbagai layanan dan cubit di dalam aplikasi.
+
+Link app
+[Link](https://drive.google.com/file/d/1UyVNdNNjGGOgHkkXBaNylrD0ix_bvQ2u/view?usp=sharing)
